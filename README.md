@@ -1,8 +1,8 @@
-### Welcome 🖤
-![](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
+### Welcome, 
+## I am Pachi, a front-end Developer :)
+![](https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif)
 
 
-## Hi, I am Pachi, a front-end Developer :)
 - 🌱 I’m currently learning VueJS and ReactJS;
 - 💬 Ask me about: Live Coding;
 - 😄 Pronouns: She/her;
