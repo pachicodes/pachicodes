@@ -1,5 +1,5 @@
 ### Welcome, 
-## I am Pachi, a front-end Developer :)
+## I am Pachi, a front-end Divaloper :)
 
 
 - 🌱 I’m currently learning VueJS and ReactJS;
@@ -8,4 +8,4 @@
 
 
 
-![](https://media.giphy.com/media/l0JMaNj0xZ6cDFLvq/giphy.gif)
+![](https://media.giphy.com/media/LAKj8u8DlhXG/giphy.gif)
