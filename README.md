@@ -1,7 +1,7 @@
 ## I am Pachi, a front-end Divaloper :)
 
 
-- 🌱 I’m currently studying JavaScript;
+- 🌱 I’m currently studying React with Epic Reac;
 - 💬 Ask me about: Live Coding;
 - 😄 Pronouns: She/her;
 - 🖤 Loves: Books, cats and chocolate.
