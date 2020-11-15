@@ -1,14 +1,11 @@
-## I am Pachi, a front-end Divaloper :)
+![](https://media.giphy.com/media/LAKj8u8DlhXG/giphy.gif)
+## I am Pachi, a front-end Developer :)
 
 
 - 🌱 I’m currently studying React with Epic Reac;
 - 💬 Ask me about: Live Coding;
 - 😄 Pronouns: She/her;
 - 🖤 Loves: Books, cats and chocolate.
-
-
-
-![](https://media.giphy.com/media/LAKj8u8DlhXG/giphy.gif)
 
 
 ## ⚡ Technologies
