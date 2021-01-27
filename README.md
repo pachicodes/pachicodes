@@ -1,8 +1,8 @@
 ![](https://media.giphy.com/media/LAKj8u8DlhXG/giphy.gif)
-## I am Pachi, a front-end Developer :)
+## I am Pachi, a Developer Relations Engineer :)
 
 
-- 🌱 I’m currently studying React with Epic Reac;
+- 🌱 I’m currently studying Python with CodeCademy while Streaming it live on Twitch;
 - 💬 Ask me about: Live Coding;
 - 😄 Pronouns: She/her;
 - 🖤 Loves: Books, cats and chocolate.
