@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently studying Python with CodeCademy while Streaming it live on Twitch;
-- 💬 Ask me about: Live Coding;
+- 💬 Ask me about: Live Coding, The Relicans;
 - 😄 Pronouns: She/her;
 - 🖤 Loves: Books, cats and chocolate.
 
