@@ -2,7 +2,7 @@
 ## I am Pachi, a Developer Relations Engineer :)
 
 
-- 🌱 I’m currently studying Python with CodeCademy while Streaming it live on Twitch;
+- 🌱 I’m currently learning Python while Streaming it live on [Twitch](https://twitch.tv/pachicodes);
 - 💬 Ask me about: Live Coding, The Relicans;
 - 😄 Pronouns: She/her;
 - 🖤 Loves: Books, cats and chocolate.
@@ -10,7 +10,7 @@
 
 ## ⚡ Technologies
 
-These are some of the technologies and tools that I work with:
+These are some of the technologies and tools that I am familiar with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
