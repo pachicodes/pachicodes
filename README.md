@@ -2,10 +2,10 @@
 ## I am Pachi, a Developer Relations Engineer :)
 
 
-- 🌱 I’m currently learning Python while Streaming it live on [Twitch](https://twitch.tv/pachicodes);
+- 🌱 I’m currently learning Vue.JS while Streaming it live on [Twitch](https://twitch.tv/pachicodes);
 - 💬 Ask me about: Live Coding, The Relicans;
 - 😄 Pronouns: She/her;
-- 🖤 Loves: Books, cats and chocolate.
+- 🖤 Loves: Books, cats, animes and chocolate.
 
 
 ## ⚡ Technologies
