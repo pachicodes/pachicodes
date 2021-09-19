@@ -1,9 +1,10 @@
-![](https://media.giphy.com/media/LAKj8u8DlhXG/giphy.gif)
-## I am Pachi, a Developer Relations Engineer :)
+![](https://tenor.com/view/anime-welcome-youre-welcome-gif-13984218)
+## I am Pachi :)
+### I work as a Developer Relation Engineer at New Relic and I am a co-founder and stramer at Feministech
 
 
-- 🌱 I’m currently learning Vue.JS while Streaming it live on [Twitch](https://twitch.tv/pachicodes);
-- 💬 Ask me about: Live Coding, The Relicans;
+- 🌱 I’m currently learning ReactJS;
+- 💬 Ask me about: Live Coding, DevRel;
 - 😄 Pronouns: She/her;
 - 🖤 Loves: Books, cats, animes and chocolate.
 
