@@ -3,7 +3,7 @@
 ### I work as a Developer Relation Engineer at New Relic and I am a co-founder and stramer at Feministech
 
 
-- 🌱 I’m currently learning: Flutter;
+- 🌱 I’m currently learning: ReactJS && Spanish;
 - 💬 Ask me about: Live Coding, DevRel;
 - 😄 Pronouns: She/her;
 - 🖤 Loves: Books, cats, animes and chocolate.
