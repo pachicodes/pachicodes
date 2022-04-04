@@ -1,10 +1,9 @@
 ![](https://c.tenor.com/9KSO758KczwAAAAC/anime-welcome.gif)
 ## I am Pachi :)
-### Developer Relation Engineer at New Relic;
 ### Also a co-founder and stramer at [Feministech](https://feministech.github.io/).
 
 
-- 🌱 I’m currently learning: ReactJS && Spanish;
+- 🌱 I’m currently learning: ;
 - 💬 Ask me about: Live Coding, DevRel;
 - 😄 Pronouns: She/her;
 - 🖤 Loves: Books, cats, animes and chocolate.
