@@ -1,7 +1,7 @@
 ![](https://c.tenor.com/9KSO758KczwAAAAC/anime-welcome.gif)
-## I am Pachi :)
-### Co-Fundador @[Feministech](https://feministech.github.io/).
-### Developer Advocate @Github
+## @pachicodes
+### 👩🏽‍💻Co-Fundadora @[Feministech](https://feministech.github.io/).
+### 🥑Developer Advocate @[Github](https://twitter.com/githubbrasil)
 
 
 ## 💻 Where to find me
