@@ -1,4 +1,4 @@
-![Gif of super cute anime girl wirh a cute white cat]<https://giphy.com/embed/L5f4Z5JoOKARG)
+![Gif of super cute anime girl wirh a cute white cat](https://giphy.com/embed/L5f4Z5JoOKARG)
 ## @pachicodes
 ### 👩🏽‍💻Co-Fundadora @[Feministech](https://feministech.github.io/).
 ### 🥑Developer Advocate @[Github](https://twitter.com/githubbrasil)
