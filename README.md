@@ -7,11 +7,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CONVITE: Você está se formando esse ano? Comemore com o GitHub!](https://dev.to/github/convite-voce-esta-se-formando-esse-ano-comemore-com-o-github-eo0)
 - [Subindo seu site no GitHub Pages sem sair do seu editor de código](https://dev.to/github/subindo-seu-site-no-github-pages-sem-sair-do-seu-editor-de-codigo-3og2)
 - [Intro ao GitHub Actions: Mostrando artigos no seu READ.me](https://dev.to/github/intro-ao-github-actions-mostrando-artigos-no-seu-readme-5f4a)
 - [Github Co-Pilot: Pair Programming com Inteligência Artificial](https://dev.to/github/github-co-pilot-pair-programming-com-inteligencia-artificial-1m43)
 - [Prestigiando as estrelas das nossas comunidades com Github Star](https://dev.to/feministech/prestigiando-as-estrelas-das-nossas-comunidades-com-github-star-26i7)
-- [How to instrument your Battlesnake with New Relic One](https://dev.to/newrelic/how-to-instrument-your-battlesnake-with-new-relic-one-3133)
 <!-- BLOG-POST-LIST:END -->
 
 
