@@ -3,8 +3,9 @@ Hi 👋 My name is Pachi Parra
 
 🥑Developer Advocate @GitHub & 👩🏽‍💻Co-Founder @Feministech
 ----------------------------------------------------
+![um gif legal do esquilo da github](https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=790b76117ef37ed33363199189e489b479e1187211fe96a0&rid=giphy.gif&ct=g)
 
-⭐Patricia, ou Pachi Codes como é conhecida pela comunidade, foi babá nos Estados Unidos por muitos anos antes de começar a aprender Front-End com cursos grátis online. Muito ativa online, Pachi se apaixonou pela comunidade e, mesmo sendo iniciante, ela começou a ensinar o que sabia e a compartilhar seu aprendizado e jornada em tech escrevendo e com lives de código, e foi assim que se interessou por Relações com Pessoas Desenvolvedoras e agora é uma Developer Advocate na Github.
+⭐Pachi works as a Developer Advocate at GiitHub and is a Streamer and Co-Founder of Feministech, an online community for Brazilian women and non-binary people who create tech content. When she's not engaging on Twitter or streaming on Twitch, Pachi watches anime, reads too many romance novels, and Hypes people on the internet like that is her job.
 
 * 🌍  I'm based in Bauru, SP - BRASIL
 * ✉️  You can contact me at [pachicodes@github.com](mailto:pachicodes@github.com)
