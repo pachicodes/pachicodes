@@ -7,7 +7,7 @@ Hi 👋 My name is Pachi Parra
 
 ⭐Pachi works as a Developer Advocate at GiitHub and is a Streamer and Co-Founder of Feministech, an online community for Brazilian women and non-binary people who create tech content. When she's not engaging on Twitter or streaming on Twitch, Pachi watches anime, reads too many romance novels, and Hypes people on the internet like that is her job.
 
-* 🌍  I'm based in Bauru, SP - BRASIL
+* 🌍  I'm based in somewhere in BRASIL
 * ✉️  You can contact me at [pachicodes@github.com](mailto:pachicodes@github.com)
 
 <a href="https://www.twitter.com/pachicodes" target="_blank" rel="noreferrer"><img
