@@ -37,9 +37,9 @@ src="https://img.shields.io/twitch/status/pachicodes?logo=twitchsx&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub verdinho: Ter ou não ter?](https://dev.to/github/github-verdinho-ter-ou-nao-ter-2a54)
 - [GitHub Sponsors: Patrocinando Open Source](https://dev.to/github/github-sponsors-patrocinando-open-source-fen)
 - [Como criar um ótimo perfil de GitHub Sponsor](https://dev.to/github/como-criar-um-otimo-perfil-de-github-sponsor-21ad)
 - [CONVITE: Você está se formando esse ano? Comemore com o GitHub!](https://dev.to/github/convite-voce-esta-se-formando-esse-ano-comemore-com-o-github-eo0)
 - [Subindo seu site no GitHub Pages sem sair do seu editor de código](https://dev.to/github/subindo-seu-site-no-github-pages-sem-sair-do-seu-editor-de-codigo-3og2)
-- [Intro ao GitHub Actions: Mostrando artigos no seu READ.me](https://dev.to/github/intro-ao-github-actions-mostrando-artigos-no-seu-readme-5f4a)
 <!-- BLOG-POST-LIST:END -->
