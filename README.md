@@ -37,9 +37,9 @@ src="https://img.shields.io/twitch/status/pachicodes?logo=twitchsx&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Conheça as Novidades do GitHub Universe 2022](https://dev.to/github/conheca-as-novidades-do-github-universe-2022-3hcg)
 - [Vamos mandar aquela Proposta de Palestra #C4P?](https://dev.to/feministech/vamos-mandar-aquela-proposta-de-palestra-c4p-4fbb)
 - [Como participar do HacktoberFest 2022](https://dev.to/github/como-se-preparar-pra-o-hacktoberfest-2022-27ln)
 - [GitHub verdinho: Ter ou não ter?](https://dev.to/github/github-verdinho-ter-ou-nao-ter-2a54)
 - [GitHub Sponsors: Patrocinando Open Source](https://dev.to/github/github-sponsors-patrocinando-open-source-fen)
-- [Como criar um ótimo perfil de GitHub Sponsor](https://dev.to/github/como-criar-um-otimo-perfil-de-github-sponsor-21ad)
 <!-- BLOG-POST-LIST:END -->
