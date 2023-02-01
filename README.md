@@ -37,9 +37,9 @@ src="https://img.shields.io/twitch/status/pachicodes?logo=twitchsx&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como deixar seu projeto mais seguro com Dependabot](https://dev.to/github/como-deixar-seu-projeto-mais-seguro-com-dependabot-57j4)
 - [Mais do que armazenamento de código: 5 features do GitHub que você não conhece](https://dev.to/github/mais-do-que-armazenamento-de-codigo-5-features-do-github-que-voce-nao-conhece-409a)
 - [Porque GitHub Codespaces é a melhor ferramenta para seu Workshop de programação](https://dev.to/github/porque-github-codespaces-e-a-melhor-ferramenta-para-seu-workshop-de-programacao-607)
 - [Conheça as Novidades do GitHub Universe 2022](https://dev.to/github/conheca-as-novidades-do-github-universe-2022-3hcg)
 - [Vamos mandar aquela Proposta de Palestra #C4P?](https://dev.to/feministech/vamos-mandar-aquela-proposta-de-palestra-c4p-4fbb)
-- [Como participar do HacktoberFest 2022](https://dev.to/github/como-se-preparar-pra-o-hacktoberfest-2022-27ln)
 <!-- BLOG-POST-LIST:END -->
