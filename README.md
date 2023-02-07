@@ -1,7 +1,8 @@
 Hi 👋 My name is Pachi Parra
 ============================
 
-🥑Developer Advocate @GitHub & 👩🏽‍💻Co-Founder @Feministech
+🥑Developer Advocate @GitHub & 
+* 👩🏽‍💻Co-Founder @Feministech
 ----------------------------------------------------
 ![um gif legal do esquilo da github](https://media3.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif?cid=790b76117ef37ed33363199189e489b479e1187211fe96a0&rid=giphy.gif&ct=g)
 
@@ -12,9 +13,7 @@ Hi 👋 My name is Pachi Parra
 
 <a href="https://www.twitter.com/pachicodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/pachicodes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/pachicodes?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-
+/></a>
 ### Skills
 
 <p align="left">
