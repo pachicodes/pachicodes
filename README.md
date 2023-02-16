@@ -35,9 +35,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Anatomia de um repositório](https://dev.to/github/a-anatomia-de-um-repositorio-5cda)
 - [O que é GitHub Codespaces e como usar](https://dev.to/github/o-que-e-github-codespaces-e-como-usar-337f)
 - [Como deixar seu projeto mais seguro com Dependabot](https://dev.to/github/como-deixar-seu-projeto-mais-seguro-com-dependabot-57j4)
 - [Mais do que armazenamento de código: 5 features do GitHub que você não conhece](https://dev.to/github/mais-do-que-armazenamento-de-codigo-5-features-do-github-que-voce-nao-conhece-409a)
 - [Porque GitHub Codespaces é a melhor ferramenta para seu Workshop de programação](https://dev.to/github/porque-github-codespaces-e-a-melhor-ferramenta-para-seu-workshop-de-programacao-607)
-- [Conheça as Novidades do GitHub Universe 2022](https://dev.to/github/conheca-as-novidades-do-github-universe-2022-3hcg)
 <!-- BLOG-POST-LIST:END -->
