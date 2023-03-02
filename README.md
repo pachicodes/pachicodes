@@ -35,9 +35,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como resolver conflitos de Merge no GitHub](https://dev.to/github/como-resolver-conflitos-de-merge-no-github-4f5n)
 - [Porque as pessoas estão desenvolvendo dentro de containers?](https://dev.to/github/porque-as-pessoas-estao-desenvolvendo-dentro-de-containers-lif)
 - [A Anatomia de um repositório](https://dev.to/github/a-anatomia-de-um-repositorio-5cda)
 - [O que é GitHub Codespaces e como usar](https://dev.to/github/o-que-e-github-codespaces-e-como-usar-337f)
 - [Como deixar seu projeto mais seguro com Dependabot](https://dev.to/github/como-deixar-seu-projeto-mais-seguro-com-dependabot-57j4)
-- [Mais do que armazenamento de código: 5 features do GitHub que você não conhece](https://dev.to/github/mais-do-que-armazenamento-de-codigo-5-features-do-github-que-voce-nao-conhece-409a)
 <!-- BLOG-POST-LIST:END -->
