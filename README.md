@@ -35,9 +35,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LEIA-ME ou te devoro: Como escrever um bom README](https://dev.to/github/leia-me-ou-te-devoro-como-escrever-um-bom-readme-5hl4)
 - [Entenda seu código com a ajuda do GitHub Copilot](https://dev.to/github/entenda-seu-codigo-com-a-ajuda-do-github-copilot-2j58)
 - [E a gente continua codando... Compartilhe sua história.](https://dev.to/feministech/e-a-gente-continua-codando-compartilhe-sua-historia-5bka)
 - [Como resolver conflitos de Merge no GitHub](https://dev.to/github/como-resolver-conflitos-de-merge-no-github-4f5n)
 - [Porque as pessoas estão desenvolvendo dentro de containers?](https://dev.to/github/porque-as-pessoas-estao-desenvolvendo-dentro-de-containers-lif)
-- [A Anatomia de um repositório](https://dev.to/github/a-anatomia-de-um-repositorio-5cda)
 <!-- BLOG-POST-LIST:END -->
