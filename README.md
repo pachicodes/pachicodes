@@ -35,9 +35,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Participe do do Hackathon GitHub + DEV 2023](https://dev.to/github/participe-do-do-hackathon-github-dev-2023-jk6)
 - [Sua organização no Github: Como começar](https://dev.to/github/sua-organizacao-no-github-como-comecar-1gjm)
 - [GitHub Discussion: O que é isso e pra que serve?](https://dev.to/github/github-discussion-o-que-e-isso-e-pra-que-serve-1ldl)
 - [Como usar autenticação 2 fatores no GitHub](https://dev.to/github/como-usar-autenticacao-2-fatores-no-github-53h3)
 - [Dicas para usar o Github como Portfólio](https://dev.to/github/dicas-para-usar-o-github-como-portfolio-2ab8)
-- [LEIA-ME ou te devoro: Como escrever um bom README](https://dev.to/github/leia-me-ou-te-devoro-como-escrever-um-bom-readme-5hl4)
 <!-- BLOG-POST-LIST:END -->
