@@ -35,9 +35,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como hostear seu site gratuitamente com GitHub Pages](https://dev.to/github/como-hostear-seu-site-gratuitamente-com-github-pages-39fk)
 - [Apresentando GitHubBrasil.com](https://dev.to/github/apresentando-githubbrasilcom-d32)
 - [Entenda os tipos de licença open source e saiba qual usar nos seus projetos](https://dev.to/github/entenda-os-tipos-de-licenca-open-source-e-saiba-qual-usa-nos-seus-projeto-1ng)
 - [Como atrair mais contribuições para seu projeto Open Source](https://dev.to/github/como-atrair-mais-contribuicoes-para-seu-projeto-open-source-5bp6)
 - [Participe do do Hackathon GitHub + DEV 2023](https://dev.to/github/participe-do-do-hackathon-github-dev-2023-jk6)
-- [Sua organização no Github: Como começar](https://dev.to/github/sua-organizacao-no-github-como-comecar-1gjm)
 <!-- BLOG-POST-LIST:END -->
