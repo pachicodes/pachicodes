@@ -35,9 +35,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Aumentando a eficiência da colaboração remota com o GitHub](https://dev.to/github/aumentando-a-eficiencia-da-colaboracao-remota-com-o-github-5gcj)
 - [Como hostear seu site gratuitamente com GitHub Pages](https://dev.to/github/como-hostear-seu-site-gratuitamente-com-github-pages-39fk)
 - [Apresentando GitHubBrasil.com](https://dev.to/github/apresentando-githubbrasilcom-d32)
 - [Entenda os tipos de licença open source e saiba qual usar nos seus projetos](https://dev.to/github/entenda-os-tipos-de-licenca-open-source-e-saiba-qual-usa-nos-seus-projeto-1ng)
 - [Como atrair mais contribuições para seu projeto Open Source](https://dev.to/github/como-atrair-mais-contribuicoes-para-seu-projeto-open-source-5bp6)
-- [Participe do do Hackathon GitHub + DEV 2023](https://dev.to/github/participe-do-do-hackathon-github-dev-2023-jk6)
 <!-- BLOG-POST-LIST:END -->
