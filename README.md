@@ -35,9 +35,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 dicas para uma boa Revisão de Código &lpar;Code Review&rpar;](https://dev.to/github/7-dicas-para-uma-boa-revisao-de-codigo-code-review-33al)
 - [10 dicas para construir uma comunidade open source](https://dev.to/github/10-dicas-para-construir-uma-comunidade-open-source-4ig0)
 - [Explorando as APIs do GitHub para automação e integração](https://dev.to/github/explorando-as-apis-do-github-para-automacao-e-integracao-41)
 - [Aumentando a eficiência da colaboração remota com o GitHub](https://dev.to/github/aumentando-a-eficiencia-da-colaboracao-remota-com-o-github-5gcj)
 - [Como hostear seu site gratuitamente com GitHub Pages](https://dev.to/github/como-hostear-seu-site-gratuitamente-com-github-pages-39fk)
-- [Apresentando GitHubBrasil.com](https://dev.to/github/apresentando-githubbrasilcom-d32)
 <!-- BLOG-POST-LIST:END -->
