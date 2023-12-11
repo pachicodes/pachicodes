@@ -34,9 +34,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Data Structures in JavaScript](https://dev.to/pachicodes/introduction-to-data-structures-in-javascript-3l87)
 - [Tips to use GitHub as your Portfolio](https://dev.to/pachicodes/tips-to-use-github-as-your-portfolio-4kb2)
 - [7 tips for a good code review](https://dev.to/pachicodes/7-tips-for-a-good-code-review-452e)
 - [7 Projetos de Código Aberto Populares](https://dev.to/github/7-projetos-de-codigo-aberto-populares-5e4i)
 - [Construindo sua marca pessoal no mundo Open Source](https://dev.to/github/construindo-sua-marca-pessoal-no-mundo-open-source-63o)
-- [7 dicas para uma boa Revisão de Código &lpar;Code Review&rpar;](https://dev.to/github/7-dicas-para-uma-boa-revisao-de-codigo-code-review-33al)
 <!-- BLOG-POST-LIST:END -->
