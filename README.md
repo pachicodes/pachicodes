@@ -34,9 +34,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [README or I&#39;ll devour you: How to write a good README](https://dev.to/pachicodes/readme-or-ill-devour-you-how-to-write-a-good-readme-592n)
 - [Soft Skills para Devs](https://dev.to/feministech/soft-skills-para-devs-1bfa)
 - [Soft Skills for Devs](https://dev.to/pachicodes/soft-skills-for-devs-edf)
 - [🌟 #DEVImpact2023 Reflections](https://dev.to/pachicodes/devimpact2023-reflections-4jgn)
 - [Green GitHub: To Have or Not to Have?](https://dev.to/pachicodes/green-github-to-have-or-not-to-have-48n5)
-- [Introduction to Data Structures in JavaScript](https://dev.to/pachicodes/introduction-to-data-structures-in-javascript-3l87)
 <!-- BLOG-POST-LIST:END -->
