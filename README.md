@@ -27,9 +27,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [We willl keep coding](https://dev.to/feministech/we-willl-keep-coding-34ko)
 - [🌟 Embracing the Power of Community in Tech 🌟](https://dev.to/pachicodes/embracing-the-power-of-community-in-tech-334b)
 - [README or I&#39;ll devour you: How to write a good README](https://dev.to/pachicodes/readme-or-ill-devour-you-how-to-write-a-good-readme-592n)
 - [Soft Skills para Devs](https://dev.to/feministech/soft-skills-para-devs-1bfa)
 - [Soft Skills for Devs](https://dev.to/pachicodes/soft-skills-for-devs-edf)
-- [🌟 #DEVImpact2023 Reflections](https://dev.to/pachicodes/devimpact2023-reflections-4jgn)
 <!-- BLOG-POST-LIST:END -->
