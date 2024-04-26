@@ -1,6 +1,6 @@
-Hi 👋 Welcome to Pachi's Profile!
+Hi 👋 
 ============================
-* 🥑Developer Advocate & Tech Community Manager
+* 🥑Developer Relations Lead & Fouding Member [@Webcrumbs](https://github.com/webcrumbs-community)
 * 👩🏽‍💻Co-Founder @Feministech
 ----------------------------------------------------
 
