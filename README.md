@@ -19,9 +19,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Open Source can make you code better](https://dev.to/buildwebcrumbs/how-open-source-can-make-you-code-better-42nf)
 - [What is a Plugin Ecosystem and Why Does It Matter?](https://dev.to/buildwebcrumbs/what-is-a-plugin-ecosystem-and-why-does-it-matter-3024)
 - [Reflecting on the power of public speaking](https://dev.to/pachicodes/reflecting-on-the-power-of-public-speaking-4hg3)
 - [We willl keep coding](https://dev.to/feministech/we-willl-keep-coding-34ko)
 - [🌟 Embracing the Power of Community in Tech 🌟](https://dev.to/pachicodes/embracing-the-power-of-community-in-tech-334b)
-- [README or I&#39;ll devour you: How to write a good README](https://dev.to/buildwebcrumbs/readme-or-ill-devour-you-how-to-write-a-good-readme-592n)
 <!-- BLOG-POST-LIST:END -->
