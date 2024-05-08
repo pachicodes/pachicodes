@@ -19,9 +19,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating Open Source: A Guide to Effective Community Engagement](https://dev.to/buildwebcrumbs/navigating-open-source-a-guide-to-effective-community-engagement-5gb9)
 - [How Open Source can make you code better](https://dev.to/buildwebcrumbs/how-open-source-can-make-you-code-better-42nf)
 - [What is a Plugin Ecosystem and Why Does It Matter?](https://dev.to/buildwebcrumbs/what-is-a-plugin-ecosystem-and-why-does-it-matter-3024)
 - [Reflecting on the power of public speaking](https://dev.to/pachicodes/reflecting-on-the-power-of-public-speaking-4hg3)
 - [We willl keep coding](https://dev.to/feministech/we-willl-keep-coding-34ko)
-- [🌟 Embracing the Power of Community in Tech 🌟](https://dev.to/pachicodes/embracing-the-power-of-community-in-tech-334b)
 <!-- BLOG-POST-LIST:END -->
