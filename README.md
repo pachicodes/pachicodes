@@ -19,9 +19,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Security: Simple Practices to Secure Your Frontend](https://dev.to/buildwebcrumbs/javascript-security-simple-practices-to-secure-your-frontend-18ii)
 - [Call for Papers: JS Builders Meetup!](https://dev.to/buildwebcrumbs/call-for-papers-js-builders-meetup-4gao)
 - [10 Signs You&#39;ve Been Coding Too Much](https://dev.to/buildwebcrumbs/10-signs-youve-been-coding-too-much-3c0e)
 - [Navigating Open Source: A Guide to Effective Community Engagement](https://dev.to/buildwebcrumbs/navigating-open-source-a-guide-to-effective-community-engagement-5gb9)
 - [How Open Source can make you code better](https://dev.to/buildwebcrumbs/how-open-source-can-make-you-code-better-42nf)
-- [What is a Plugin Ecosystem and Why Does It Matter?](https://dev.to/buildwebcrumbs/what-is-a-plugin-ecosystem-and-why-does-it-matter-3024)
 <!-- BLOG-POST-LIST:END -->
