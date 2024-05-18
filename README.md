@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Confessions of a Serial Debugger 🐛💻](https://dev.to/buildwebcrumbs/confessions-of-a-serial-debugger-4hjn)
+- [5 steps to become a PRO Debugger 🐛💻](https://dev.to/buildwebcrumbs/confessions-of-a-serial-debugger-4hjn)
 - [JavaScript Security: Simple Practices to Secure Your Frontend](https://dev.to/buildwebcrumbs/javascript-security-simple-practices-to-secure-your-frontend-18ii)
 - [Call for Papers: JS Builders Meetup!](https://dev.to/buildwebcrumbs/call-for-papers-js-builders-meetup-4gao)
 - [10 Signs You&#39;ve Been Coding Too Much](https://dev.to/buildwebcrumbs/10-signs-youve-been-coding-too-much-3c0e)
