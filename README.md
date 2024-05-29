@@ -19,9 +19,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Speed Up Your Site with 3 Simple JavaScript Performance Optimization Tips](https://dev.to/buildwebcrumbs/speed-up-your-site-with-3-simple-javascript-performance-optimization-tips-4gc2)
 - [If Error Messages Were Honest &lpar;and Cats&rpar;](https://dev.to/buildwebcrumbs/if-error-messages-were-honest-and-cats-56ea)
 - [JavaScript Made Simple: Essential Tips for Everyday Tasks](https://dev.to/buildwebcrumbs/javascript-made-simple-essential-tips-for-everyday-tasks-epo)
 - [5 steps to become a PRO Debugger 🐛💻](https://dev.to/buildwebcrumbs/confessions-of-a-serial-debugger-4hjn)
 - [JavaScript Security: Simple Practices to Secure Your Frontend](https://dev.to/buildwebcrumbs/javascript-security-simple-practices-to-secure-your-frontend-18ii)
-- [Call for Papers: JS Builders Meetup!](https://dev.to/buildwebcrumbs/call-for-papers-js-builders-meetup-4gao)
 <!-- BLOG-POST-LIST:END -->
