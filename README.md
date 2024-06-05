@@ -19,9 +19,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Practical Debugging Tips for JavaScript Developers](https://dev.to/buildwebcrumbs/practical-debugging-tips-for-javascript-developers-38mp)
 - [JS Builders Meetup - Dive Deep Into Kafka with JavaScript](https://dev.to/buildwebcrumbs/js-builders-meetup-tomorrow-dive-deep-into-kafka-with-javascript-47bi)
 - [Why My Rubber Duck Quit on Me: A Developer’s Tale](https://dev.to/buildwebcrumbs/why-my-rubber-duck-quit-on-me-a-developers-tale-3op4)
 - [Speed Up Your Site with 3 Simple JavaScript Performance Optimization Tips](https://dev.to/buildwebcrumbs/speed-up-your-site-with-3-simple-javascript-performance-optimization-tips-4gc2)
 - [If Error Messages Were Honest &lpar;and Cats&rpar;](https://dev.to/buildwebcrumbs/if-error-messages-were-honest-and-cats-56ea)
-- [JavaScript Made Simple: Essential Tips for Everyday Tasks](https://dev.to/buildwebcrumbs/javascript-made-simple-essential-tips-for-everyday-tasks-epo)
 <!-- BLOG-POST-LIST:END -->
