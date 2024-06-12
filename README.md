@@ -19,9 +19,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Asynchronous JavaScript: Practical Tips for Better Code](https://dev.to/buildwebcrumbs/demystifying-asynchronous-javascript-practical-tips-for-better-code-15m1)
 - [FrontEndAI: Turn wireframe images into Code with 1 click](https://dev.to/buildwebcrumbs/frontendai-turn-wireframe-images-into-code-with-1-click-571)
 - [How to Speak to a Human When You&#39;re Used to Talking to a Machine](https://dev.to/buildwebcrumbs/how-to-speak-to-a-human-when-youre-used-to-talking-to-a-machine-4p79)
 - [Practical Debugging Tips for JavaScript Developers](https://dev.to/buildwebcrumbs/practical-debugging-tips-for-javascript-developers-38mp)
 - [JS Builders Meetup - Dive Deep Into Kafka with JavaScript](https://dev.to/buildwebcrumbs/js-builders-meetup-tomorrow-dive-deep-into-kafka-with-javascript-47bi)
-- [Why My Rubber Duck Quit on Me: A Developer’s Tale](https://dev.to/buildwebcrumbs/why-my-rubber-duck-quit-on-me-a-developers-tale-3op4)
 <!-- BLOG-POST-LIST:END -->
