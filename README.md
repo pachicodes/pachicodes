@@ -19,9 +19,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Effortlessly Create Your React Portfolio with the Frontend AI Tool](https://dev.to/buildwebcrumbs/effortlessly-create-your-react-portfolio-with-the-frontend-ai-tool-1i4e)
 - [One Byte Explainer: Algorithm](https://dev.to/pachicodes/one-byte-explainer-algorithm-27do)
 - [Asynchronous JavaScript: Practical Tips for Better Code](https://dev.to/buildwebcrumbs/demystifying-asynchronous-javascript-practical-tips-for-better-code-15m1)
 - [FrontEndAI: Turn wireframe images into Code with 1 click](https://dev.to/buildwebcrumbs/frontendai-turn-wireframe-images-into-code-with-1-click-571)
 - [How to Speak to a Human When You&#39;re Used to Talking to a Machine](https://dev.to/buildwebcrumbs/how-to-speak-to-a-human-when-youre-used-to-talking-to-a-machine-4p79)
-- [Practical Debugging Tips for JavaScript Developers](https://dev.to/buildwebcrumbs/practical-debugging-tips-for-javascript-developers-38mp)
 <!-- BLOG-POST-LIST:END -->
