@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Effortlessly Create Your React Portfolio with the Frontend AI Tool](https://dev.to/buildwebcrumbs/effortlessly-create-your-react-portfolio-with-the-frontend-ai-tool-1i4e)
+- [Create Your Portfolio in 3 steps with the Frontend AI Tool](https://dev.to/buildwebcrumbs/effortlessly-create-your-react-portfolio-with-the-frontend-ai-tool-1i4e)
 - [One Byte Explainer: Algorithm](https://dev.to/pachicodes/one-byte-explainer-algorithm-27do)
 - [Asynchronous JavaScript: Practical Tips for Better Code](https://dev.to/buildwebcrumbs/demystifying-asynchronous-javascript-practical-tips-for-better-code-15m1)
 - [FrontEndAI: Turn wireframe images into Code with 1 click](https://dev.to/buildwebcrumbs/frontendai-turn-wireframe-images-into-code-with-1-click-571)
