@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Intro to JavaScript Testing: Frameworks, Tools, and Practices](https://dev.to/pachicodes/intro-to-javascript-testing-frameworks-tools-and-practices-167i)
+- [Intro to JavaScript Testing: Frameworks, Tools, and Practices](https://dev.to/buildwebcrumbs/intro-to-javascript-testing-frameworks-tools-and-practices-167i)
 - [10 secret rules of Development every Programmer should know](https://dev.to/buildwebcrumbs/10-secret-rules-of-development-every-programmer-should-know-2kj1)
 - [Create Your Portfolio in 3 steps with the Frontend AI Tool](https://dev.to/buildwebcrumbs/effortlessly-create-your-react-portfolio-with-the-frontend-ai-tool-1i4e)
 - [One Byte Explainer: Algorithm](https://dev.to/pachicodes/one-byte-explainer-algorithm-27do)
