@@ -19,9 +19,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What plugins do you dream of?](https://dev.to/buildwebcrumbs/what-plugins-do-you-dream-of-2cac)
 - [Intro to JavaScript Testing: Frameworks, Tools, and Practices](https://dev.to/buildwebcrumbs/intro-to-javascript-testing-frameworks-tools-and-practices-167i)
 - [10 secret rules of Development every Programmer should know](https://dev.to/buildwebcrumbs/10-secret-rules-of-development-every-programmer-should-know-2kj1)
 - [Create Your Portfolio in 3 steps with the Frontend AI Tool](https://dev.to/buildwebcrumbs/effortlessly-create-your-react-portfolio-with-the-frontend-ai-tool-1i4e)
 - [One Byte Explainer: Algorithm](https://dev.to/pachicodes/one-byte-explainer-algorithm-27do)
-- [Asynchronous JavaScript: Practical Tips for Better Code](https://dev.to/buildwebcrumbs/demystifying-asynchronous-javascript-practical-tips-for-better-code-15m1)
 <!-- BLOG-POST-LIST:END -->
