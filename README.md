@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Join Us TODAY at JS Builders Meetup – Learn the PubSub Design Pattern for JavaScript!](https://dev.to/buildwebcrumbs/join-us-at-js-builders-meetup-learn-the-pubsub-design-pattern-for-javascript-568o)
+- [JS Builders Meetup – Learn the PubSub Design Pattern for JavaScript!](https://dev.to/buildwebcrumbs/join-us-at-js-builders-meetup-learn-the-pubsub-design-pattern-for-javascript-568o)
 - [Top 5 Soft Skills to Be a Great Developer and how to improve them](https://dev.to/buildwebcrumbs/top-5-soft-skills-to-be-a-great-developer-and-how-to-improve-them-ikj)
 - [Why My Coffee Pot is My Best Code Reviewer](https://dev.to/buildwebcrumbs/why-my-coffee-pot-is-my-best-code-reviewer-4k38)
 - [What plugins do you dream of?](https://dev.to/buildwebcrumbs/what-plugins-do-you-dream-of-2cac)
