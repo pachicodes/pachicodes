@@ -19,9 +19,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Importance of Community for Open Source 🌱💚🌍](https://dev.to/pachicodes/the-importance-of-community-for-open-source-5ak)
 - [Understanding Asynchronous JavaScript: Callbacks, Promises, and Async/Await](https://dev.to/buildwebcrumbs/understanding-asynchronous-javascript-callbacks-promises-and-asyncawait-cdc)
 - [If Programming Languages Were People: The Office Edition](https://dev.to/buildwebcrumbs/if-programming-languages-were-people-the-office-edition-16if)
 - [Welcome to JavaScript: From Novice to Expert](https://dev.to/buildwebcrumbs/welcome-to-javascript-from-novice-to-expert-38fh)
 - [JS Builders Meetup – Learn the PubSub Design Pattern for JavaScript!](https://dev.to/buildwebcrumbs/join-us-at-js-builders-meetup-learn-the-pubsub-design-pattern-for-javascript-568o)
-- [Top 5 Soft Skills to Be a Great Developer and how to improve them](https://dev.to/buildwebcrumbs/top-5-soft-skills-to-be-a-great-developer-and-how-to-improve-them-ikj)
 <!-- BLOG-POST-LIST:END -->
