@@ -19,9 +19,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Funny Friday and Self-care](https://dev.to/pachicodes/funny-friday-and-self-care-560m)
 - [Open Source projects that changed the world](https://dev.to/buildwebcrumbs/open-source-projects-that-changed-the-world-4d2n)
 - [Debugging JavaScript: Tools and Techniques](https://dev.to/buildwebcrumbs/debugging-javascript-tools-and-techniques-2i4b)
 - [How to explain to your family what you do 🤯🧠🧙🏼](https://dev.to/buildwebcrumbs/how-to-explain-to-your-family-what-you-do-1358)
 - [JavaScript Basics: Understanding Syntax and Structure](https://dev.to/buildwebcrumbs/javascript-basics-understanding-syntax-and-structure-5d9b)
-- [Crafting an Effective Cover Letter 📨💯🚀](https://dev.to/pachicodes/crafting-an-effective-cover-letter-2mj9)
 <!-- BLOG-POST-LIST:END -->
