@@ -1,8 +1,4 @@
 Hi 👋 
-============================
-* 🥑Developer Relations Lead & Fouding Member [@Webcrumbs](https://github.com/webcrumbs-community)
-* 👩🏽‍💻Co-Founder @Feministech
-----------------------------------------------------
 
 ⭐Pachi works as a Developer Advocate & Tech Community Manager and is a Streamer and Co-Founder of Feministech, an online community for Brazilian women and non-binary people who create tech content. When she's not engaging on Twitter or streaming on Twitch, Pachi watches anime, reads too many romance novels, and Hypes people on the internet like that is her job.
 
