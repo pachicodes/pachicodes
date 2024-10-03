@@ -15,9 +15,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to add real-time synchronization to your productivity-tool](https://dev.to/superviz/how-to-add-real-time-synchronization-to-your-productivity-tool-1b3d)
 - [Learn how to build a multiplayer chess game with React](https://dev.to/superviz/learn-how-to-build-a-multiplayer-chess-game-with-react-2pln)
 - [How to add a Who-Is-Online feature on your application with JavaScript](https://dev.to/superviz/how-to-add-a-who-is-online-feature-on-your-application-with-javascript-1dge)
 - [Do Código à Comunidade: Construindo Relacionamentos Duradouros com Devs](https://dev.to/pachicodes/do-codigo-a-comunidade-construindo-relacionamentos-duradouros-com-devs-51ng)
 - [🚀 A Importância de Cultivar uma Comunidade Tech para Empresas de Tecnologia 🚀](https://dev.to/feministech/a-importancia-de-cultivar-uma-comunidade-tech-para-empresas-de-tecnologia-1hpk)
-- [What is Product Hunt and how devs can use it](https://dev.to/buildwebcrumbs/what-is-product-hunt-and-how-devs-can-use-it-gfd)
 <!-- BLOG-POST-LIST:END -->
