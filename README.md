@@ -15,9 +15,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build a collaborative drawing App](https://dev.to/superviz/how-to-build-a-collaborative-drawing-app-49m)
 - [Learn how to add real-time synchronization to a React Flow application](https://dev.to/superviz/learn-how-to-add-real-time-synchronization-to-a-react-flow-application-478f)
 - [Learn how to build a real-time chat](https://dev.to/superviz/learn-how-to-build-a-real-time-chat-3ap0)
 - [How to build a notifications feature with React](https://dev.to/superviz/how-to-build-a-notifications-feature-with-react-2bml)
 - [How to add real-time synchronization to your productivity-tool](https://dev.to/superviz/how-to-add-real-time-synchronization-to-your-productivity-tool-1b3d)
-- [Learn how to build a multiplayer chess game with React](https://dev.to/superviz/learn-how-to-build-a-multiplayer-chess-game-with-react-2pln)
 <!-- BLOG-POST-LIST:END -->
