@@ -15,9 +15,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s debug 2024](https://dev.to/pachicodes/lets-debug-2024-3keg)
 - [GitHub Copilot grátis? Temos!](https://dev.to/pachicodes/github-copilot-gratis-temos-3f78)
 - [Lista de Comandos Básicos do Git](https://dev.to/pachicodes/lista-de-comandos-basicos-do-git-4ad9)
 - [Conectando Git ao GitHub](https://dev.to/feministech/conectando-git-ao-github-2ek6)
 - [How to build a collaborative drawing App](https://dev.to/superviz/how-to-build-a-collaborative-drawing-app-49m)
-- [Learn how to add real-time synchronization to a React Flow application](https://dev.to/superviz/learn-how-to-add-real-time-synchronization-to-a-react-flow-application-478f)
 <!-- BLOG-POST-LIST:END -->
