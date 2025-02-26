@@ -15,9 +15,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Revisão rápida de condicionais em JS](https://dev.to/pachicodes/revisao-rapida-de-condicionais-em-js-5emd)
 - [GitHub Lança Novo Modelo de Sugestão de Código GPT-4o Copilot](https://dev.to/pachicodes/github-lanca-novo-modelo-de-sugestao-de-codigo-gpt-4o-copilot-3mml)
 - [Voltei pro GitHub🐣](https://dev.to/pachicodes/voltei-pro-github-52f8)
 - [Let&#39;s debug 2024](https://dev.to/pachicodes/lets-debug-2024-3keg)
 - [GitHub Copilot grátis? Temos!](https://dev.to/pachicodes/github-copilot-gratis-temos-3f78)
-- [Lista de Comandos Básicos do Git](https://dev.to/pachicodes/lista-de-comandos-basicos-do-git-4ad9)
 <!-- BLOG-POST-LIST:END -->
