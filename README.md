@@ -15,9 +15,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Descubra o Modo Agente do GitHub Copilot](https://dev.to/pachicodes/descubra-o-modo-agente-do-github-copilot-54j2)
 - [Modelos de IA vs. Agentes de IA no GitHub Copilot](https://dev.to/pachicodes/modelos-de-ia-vs-agentes-de-ia-no-github-copilot-20f0)
 - [Catálogo de Patinhos de Borracha 🦆: Como criamos um site Open Source com GitHub Copilot](https://dev.to/pachicodes/catalogo-de-patinhos-de-borracha-como-criamos-um-site-open-source-com-github-copilot-2gg7)
 - [Revisão rápida de condicionais em JS](https://dev.to/pachicodes/revisao-rapida-de-condicionais-em-js-5emd)
 - [GitHub Lança Novo Modelo de Sugestão de Código GPT-4o Copilot](https://dev.to/pachicodes/github-lanca-novo-modelo-de-sugestao-de-codigo-gpt-4o-copilot-3mml)
-- [Voltei pro GitHub🐣](https://dev.to/pachicodes/voltei-pro-github-52f8)
 <!-- BLOG-POST-LIST:END -->
