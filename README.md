@@ -15,9 +15,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Como a IA Aprende](https://dev.to/pachicodes/como-a-ia-aprende-descomplicando-a-ia-parte-2-36af)
 - [Termos Fundamentais de IA](https://dev.to/pachicodes/termos-fundamentais-de-ia-569n)
 - [Adicionando visuais no seu Markdown com Mermaid 🧜‍♀️](https://dev.to/pachicodes/adicionando-visuais-no-seu-markdown-com-mermaid-42al)
 - [Vibe Coding com GitHub Copilot 💻🎧💚](https://dev.to/pachicodes/vibe-coding-com-github-copilot-39d6)
 - [Métricas em DevRel: Como Medir o Sucesso da Sua Estratégia de Developer Relations](https://dev.to/abacatedevrel/metricas-em-devrel-como-medir-o-sucesso-da-sua-estrategia-de-developer-relations-fpo)
-- [Entenda o MCP: O Protocolo que Liga LLMs a Dados e Ferramentas](https://dev.to/pachicodes/entenda-o-mcp-o-protocolo-que-liga-llms-a-dados-e-ferramentas-2loh)
 <!-- BLOG-POST-LIST:END -->
