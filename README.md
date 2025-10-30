@@ -15,9 +15,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Oi :3](https://dev.to/pachicodes/oi-3-4ikf)
 - [O Que É DevRel? Entenda Developer Relations no Brasil](https://dev.to/pachicodes/o-que-e-devrel-entenda-developer-relations-no-brasil-45i4)
 - [O Valor de uma Comunidade: Seis pilares tangíveis para o crescimento da sua empresa](https://dev.to/pachicodes/o-valor-de-uma-comunidade-seis-pilares-tangiveis-para-o-crescimento-da-sua-empresa-3i4g)
 - [Como a IA Entende a Linguagem](https://dev.to/pachicodes/como-a-ia-entende-a-linguagem-1668)
 - [Como a IA Aprende](https://dev.to/pachicodes/como-a-ia-aprende-descomplicando-a-ia-parte-2-36af)
-- [Termos Fundamentais de IA](https://dev.to/pachicodes/termos-fundamentais-de-ia-569n)
 <!-- BLOG-POST-LIST:END -->
