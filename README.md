@@ -1,4 +1,4 @@
-![pachicodes's GitHub Banner](https://raw.githubusercontent.com/pachicodes/pachicodes/main/banner.png)
+HI, IAM PACHI :D
 
 * 🌍  I'm based in somewhere in BRASIL
 * ✉️  You can contact me at [pachicodes@gmail.com](mailto:pachicodes@gmail.com)
