@@ -13,9 +13,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Agente local ou agente na nuvem: qual faz sentido para você?](https://dev.to/pachicodes/agente-local-ou-agente-na-nuvem-qual-faz-sentido-para-voce-5co0)
+- [A Practical Intro to Spec-Driven Development &lpar;SDD&rpar;](https://dev.to/pachicodes/a-practical-intro-to-spec-driven-development-sdd-1541)
 - [O Paradoxo dos 70/30: A aceleração da IA aliada à experiência humana](https://dev.to/pachicodes/o-paradoxo-dos-7030-a-aceleracao-da-ia-aliada-a-experiencia-humana-3o8)
 - [3 Competências essenciais para programar com IA em 2026](https://dev.to/pachicodes/3-competencias-essenciais-para-programar-com-ia-em-2026-2156)
 - [🚀 Novidades GitHub Universe 2025](https://dev.to/pachicodes/novidades-github-universe-2025-30mo)
-- [Oi :3](https://dev.to/pachicodes/oi-3-4ikf)
-- [O Que É DevRel? Entenda Developer Relations no Brasil](https://dev.to/abacatedevrel/o-que-e-devrel-entenda-developer-relations-no-brasil-45i4)
 <!-- BLOG-POST-LIST:END -->
