@@ -13,9 +13,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to test an automation before production: A practical checklist](https://dev.to/abmlib/how-to-test-an-automation-before-production-a-practical-checklist-35p6)
 - [Workflow Management vs Workflow Automation: What’s the difference?](https://dev.to/abmlib/workflow-management-vs-workflow-automation-whats-the-difference-55jf)
 - [What is ABMLib and where does it fit in your automation workflow?](https://dev.to/abmlib/what-is-abmlib-and-where-does-it-fit-in-your-automation-workflow-62l)
 - [What is workflow reuse and why does It matter?](https://dev.to/abmlib/what-is-workflow-reuse-and-why-does-it-matter-906)
 - [Agente local ou agente na nuvem: qual faz sentido para você?](https://dev.to/pachicodes/agente-local-ou-agente-na-nuvem-qual-faz-sentido-para-voce-5co0)
-- [A Practical Intro to Spec-Driven Development &lpar;SDD&rpar;](https://dev.to/pachicodes/a-practical-intro-to-spec-driven-development-sdd-1541)
 <!-- BLOG-POST-LIST:END -->
