@@ -13,9 +13,9 @@ src="https://img.shields.io/twitter/follow/pachicodes?logo=twitter&style=for-the
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automation governance: why reuse needs more than templates](https://dev.to/abmlib/automation-governance-why-reuse-needs-more-than-templates-279p)
 - [Connecting AI Agents to PDF Tools with Foxit’s MCP Server](https://dev.to/pachicodes/connecting-ai-agents-to-pdf-tools-with-foxits-mcp-server-1h7b)
 - [How ABMLib blueprints work](https://dev.to/abmlib/how-abmlib-blueprints-work-2mkh)
 - [Platform-Agnostic Automation: What it means and why it matters](https://dev.to/abmlib/platform-agnostic-automation-what-it-means-and-why-it-matters-4bek)
 - [How to test an automation before production: A practical checklist](https://dev.to/abmlib/how-to-test-an-automation-before-production-a-practical-checklist-35p6)
-- [Workflow Management vs Workflow Automation: What’s the difference?](https://dev.to/abmlib/workflow-management-vs-workflow-automation-whats-the-difference-55jf)
 <!-- BLOG-POST-LIST:END -->
